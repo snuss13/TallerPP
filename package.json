@@ -1,0 +1,26 @@
+{
+  "name": "test-qa",
+  "version": "1.0.0",
+  "description": "this is js test for qa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "taller technologies",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldiazssj3/test-qa-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ldiazssj3/test-qa-js/issues"
+  },
+  "homepage": "https://github.com/ldiazssj3/test-qa-js#readme"
+}
